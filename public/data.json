@@ -1,0 +1,35 @@
+[
+    {
+        "photo": "https://i.ibb.co/TgMTYDC/Screenshot-88.png",
+        "name": "Camp Victory",
+        "header": "Developed a summer camp learning platform website . where students can book classes, instructors can add and update classes, and admins can manage instructors and users. ",
+        "details": "Stripe is integrated into the website as the payment method, ensuring secure and convenient payment processing.Routes and APIs are protected within JWT tokens, enhancing the security of the website.The website's backend is built using Express.js, while MongoDB is used as the database technology for scalability and flexibility",
+        "technology":"ReactJS, Tailwind CSS, Node.js, ES6, Express.js, React Router,Firebase (Authentication), TenStack Query, Json Web Token, axios, stripe,",
+        "live": "https://learning-school-d2d64.web.app/",
+        "clint":"https://github.com/naem0/Summer-Camp-Learning-School.git",
+        "server":"https://github.com/naem0/chef-hub-server.git"
+        
+      },
+      {
+        "photo": "https://i.ibb.co/S7hFwPW/Screenshot-87.png",
+        "name": "TOYHOME",
+        "header": "Developed a website organizes toys into categories and presents them within tabs, allowing usesers to easily browse and explore dierent types of educational toys.",
+        "details": "The website utilizes email, password, and Firebase by Google for user authentication. Authenticated users have a dedicated page (My Toys) that showcases the toysthey have added.The website incorporates a search feature that enables users to search for toysThe project leverages React Router for building single page applications based on specic criteria.",
+        "technology":"ReactJS, Tailwind CSS, Node.js, Express.js, MongoDB,React Router,Firebase (Authentication).",
+        "live": "https://toy-marketplace-f7b55.web.app/",
+        "clint":" https://github.com/naem0/toy-forest.git",
+        "server":"https://github.com/naem0/toy-forest-server.git"
+      },
+
+      {
+        "photo": "https://i.ibb.co/Ptd1Dd1/Screenshot-86.png",
+        "name": "Chef-Point",
+        "header": "Developed a single-page website focused on IFrence cuisine, featuring renowned chefs, their authentic recipes, and preparation details.",
+        "details": "The website utilizes email, password, and Firebase by Google for user authentication. Authenticated users have a dedicated page (My Boking) that showcases the boking they have added. The project leverages React Router for building single page applications.",
+        "technology":"The website built using React.js,Tailwind,DaisyUi for client side ,Exprees.js for server side. use Firebase for authentication",
+        "live": "https://chef-recipe-hunter-ddc68.web.app/",
+        "clint":"https://github.com/naem0/chef-hub.git",
+        "server":"https://github.com/naem0/chef-hub-server.git"
+        
+      }  
+]
